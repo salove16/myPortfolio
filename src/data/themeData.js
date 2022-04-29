@@ -5,8 +5,11 @@ import {
 
 
 export const themeData = {
-   theme_1: yellowThemeLight,
-   theme_2:yellowThemeDark,
+//    theme_1: yellowThemeLight,
+//    theme_2:yellowThemeDark,
+
+   theme_1:yellowThemeDark,
+   theme_2: yellowThemeLight,
 
 }
 
