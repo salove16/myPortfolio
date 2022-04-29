@@ -172,7 +172,7 @@ function Navbar() {
             //   />
 
             <NightsStayIcon
-              className="theme"
+              className="theme dark"
               color="primary"
               onClick={() => {
                 handleToggle();
