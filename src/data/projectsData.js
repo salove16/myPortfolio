@@ -9,7 +9,7 @@
 import KFC from '../assets/svg/projects/KFC_logo.svg'
 import DOTANDKEY from '../assets/svg/projects/DOT&KEY.svg'
 import weather from '../assets/svg/projects/snowflake_weather_app_icon_4x.webp'
-
+import stopWatch from '../assets/svg/projects/stop-watch-icon-20.svg'
 
 export const projectsData = [
     {
@@ -39,15 +39,15 @@ export const projectsData = [
         demo: 'https://remarkable-lamington-f89f26.netlify.app/',
         image: weather
     },
-    // {
-    //     id: 4,
-    //     projectName: 'Android Patient Tracker',
-    //     projectDesc: 'This project involves the development of an Android application for viewing and managing patient data.',
-    //     tags: ['Flutter', 'Firebase'],
-    //     code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-    //     demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-    //     image: four
-    // },
+    {
+        id: 4,
+        projectName: 'Stopwatch Timer',
+        projectDesc: 'This project is a fun one where i build a stopwatch timer with start stop reset resume functionality .',
+        tags: ['REACT', 'CSS','VITE','HTML','JavaScript','ES6'],
+        code: 'https://github.com/salove16/StopWatch_timer',
+        demo: 'https://stop-watch-timer-salove16.vercel.app/',
+        image: stopWatch
+    },
     // {
     //     id: 5,
     //     projectName: 'E-Commerce App',
