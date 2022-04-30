@@ -8,6 +8,9 @@
     overflow: hidden;
 }
 
+#image{
+    border-radius: 50%;
+}
 
 /* SLIDER STYLES */
 .slick-slider {
