@@ -1,3 +1,5 @@
+import kfc from './image/project1.dbf4cb2485574b0fb66a.png'
+import dot1 from './image/Screenshot 2022-05-01 142513.jpg'
 export const blogData = [
     {
         id: 1,
@@ -12,7 +14,7 @@ export const blogData = [
         title: 'My experience to cloning my 1st website  ',
         description: 'How I Completed my Journey of Creating a clone of E-Commerce website using HTML,CSS,JavaScript',
         date: 'Jan 23, 2022',
-        image: 'https://miro.medium.com/max/1400/1*KhA5_iWUN02BY33xEluVxQ.jpeg',
+        image: kfc,
         url: 'https://medium.com/@shashank.shalabh909/how-i-completed-my-journey-of-creating-a-clone-of-e-commerce-website-using-html-css-javascript-fedd416d9d18'
     },
     {
@@ -20,7 +22,7 @@ export const blogData = [
         title: 'Creating a 2nd Clone of E-commerce wesite using Frontend',
         description: 'My journey to Create a Beauty Products E-Commerce website using HTML , CSS & Advance JS',
         date: 'Feb 27, 2022',
-        image: 'https://miro.medium.com/max/1400/1*90jmKbvXVbUqCLzjpk85Rw.png',
+        image: dot1,
         url: 'https://medium.com/@shashank.shalabh909/my-journey-to-create-a-beauty-products-e-commerce-website-in-my-unit-3-construct-week-using-html-c3a164ba4ac0'
     },
     {
