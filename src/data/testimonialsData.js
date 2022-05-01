@@ -23,13 +23,13 @@ export const testimonialsData = [
         text: "Highly recommended as we worked in lots of projects in a Group having in depth knowledge of React.js, Node.js, Advance JS, HTML,CSS.",
         image: 'https://media-exp1.licdn.com/dms/image/C5603AQH-74kwqLIzyg/profile-displayphoto-shrink_800_800/0/1650377450425?e=1656547200&v=beta&t=Tmt537HlrOH3pRppgjyZ7rz4Ki6AFMPSbRKYTmOGXfY'
     },
-    // {
-    //     id: 3,
-    //     name: 'Phoebe Buffay',
-    //     title: 'Massuese',
-    //     text: "Heard of the song 'Smelly Cat!!' ? This website made it viral. Plus portfolio is the only thing that Ursula doesn't have :)",
-    //     image: girl1
-    // },
+    {
+        id: 3,
+        name: 'Dnyaneshwar Magar',
+        title: 'Full Stack Web Developer (Masai Class Mate )',
+        text: "Shashank is a self motivated, disciplined person, who emphasize for perfection in work. He has good interpersonal, presentation and team management skill. A nice and gentle human being by nature. While studying together and working on various projects, his genuine helping nature, patience, logical thinking and problem solving skills helped everyone around a lot. He will be perfect fit in any team.",
+        image: 'https://media-exp1.licdn.com/dms/image/C4D03AQEANWPv2mVg_A/profile-displayphoto-shrink_400_400/0/1650398982511?e=1657152000&v=beta&t=StLwfC5LNWWmDAaTuafA97iIn9RjGJtcfO4_hxgFX18'
+    },
     // {
     //     id: 4,
     //     name: 'Joey Tribbiani',
