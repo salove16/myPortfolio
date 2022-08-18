@@ -10,6 +10,7 @@ import KFC from '../assets/svg/projects/KFC_logo.svg'
 import DOTANDKEY from '../assets/svg/projects/DOT&KEY.svg'
 import weather from '../assets/svg/projects/snowflake_weather_app_icon_4x.webp'
 import stopWatch from '../assets/svg/projects/stop-watch-icon-20.svg'
+import  myntra from '../assets/svg/projects/myntra.svg'
 
 export const projectsData = [
     {
@@ -48,15 +49,15 @@ export const projectsData = [
         demo: 'https://stop-watch-timer-salove16.vercel.app/',
         image: stopWatch
     },
-    // {
-    //     id: 5,
-    //     projectName: 'E-Commerce App',
-    //     projectDesc: 'A Simple E-commerce application',
-    //     tags: ['React Native', 'Firebase'],
-    //     code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-    //     demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-    //     image: five
-    // },
+    {
+        id: 5,
+        projectName: 'Myntra - clone',
+        projectDesc: 'This project is a clone of E-Commerce website using REACT UI,CSS,JavaScript,ES6 in collaboration of 5 members completed within 5 days.',
+        tags: ['React', 'Firebase','Material UI','CSS','JSX','ES6','VITE'],
+        code: 'https://github.com/salove16/MyntraClone_react.git',
+        demo: 'https://myntra-clone-react-xi.vercel.app/',
+        image: myntra
+    },
     // {
     //     id: 6,
     //     projectName: 'Uber Lite',
