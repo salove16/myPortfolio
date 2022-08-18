@@ -14,6 +14,15 @@ import  myntra from '../assets/svg/projects/myntra.svg'
 
 export const projectsData = [
     {
+        id: 5,
+        projectName: 'Myntra - clone',
+        projectDesc: 'This project is a clone of E-Commerce website using REACT UI,CSS,JavaScript,ES6 in collaboration of 5 members completed within 5 days.',
+        tags: ['React', 'Firebase','Material UI','CSS','JSX','ES6','VITE'],
+        code: 'https://github.com/salove16/MyntraClone_react.git',
+        demo: 'https://myntra-clone-react-xi.vercel.app/',
+        image: myntra
+    },
+    {
         id: 1,
         projectName: 'KFC-CLONE',
         projectDesc: 'This project aims to build a clone of E-Commerce website using HTML,CSS,JavaScript in collaboration of 6 members completed within 5 days.  ',
@@ -49,15 +58,7 @@ export const projectsData = [
         demo: 'https://stop-watch-timer-salove16.vercel.app/',
         image: stopWatch
     },
-    {
-        id: 5,
-        projectName: 'Myntra - clone',
-        projectDesc: 'This project is a clone of E-Commerce website using REACT UI,CSS,JavaScript,ES6 in collaboration of 5 members completed within 5 days.',
-        tags: ['React', 'Firebase','Material UI','CSS','JSX','ES6','VITE'],
-        code: 'https://github.com/salove16/MyntraClone_react.git',
-        demo: 'https://myntra-clone-react-xi.vercel.app/',
-        image: myntra
-    },
+   
     // {
     //     id: 6,
     //     projectName: 'Uber Lite',
